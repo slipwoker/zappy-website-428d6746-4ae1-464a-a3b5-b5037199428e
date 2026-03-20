@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+עומר בגדים מביאה לך את הקולקציה המושלמת שתשדרג כל מראה. בגדים איכותיים, עיצוב מרהיב וסטייל שמדבר בשבילך. קני עכשיו וגלי עולם אופנה חדש!
+
+### אודות
+https://example.com/about
+הכירי את הצוות המוכשר שמאחורי עומר בגדים ואת החזון שמניע אותנו לייצר אופנה שמשלבת איכות, יצירתיות ואהבה אמיתית לעיצוב. הצטרפי למשפחה שלנו!
+
+### תיק עבודות
+https://example.com/showcase
+תיק העבודות שלנו מציג את הקולקציות המרהיבות ביותר שיצרנו. כל פריט מספר סיפור, כל עיצוב הוא יצירת אמנות. התרשמי ומצאי את הסטייל שמדבר אלייך!
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה, רעיון או סתם רצון לדבר אופנה? צרי איתנו קשר עכשיו ונשמח לעזור לך למצוא בדיוק מה שאת מחפשת. הצוות שלנו כאן בשבילך תמיד!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
